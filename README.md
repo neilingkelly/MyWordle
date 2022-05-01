@@ -14,8 +14,11 @@ Happy playing!
 
 # Code Techniques Implemented
 Loops
+
 Arrays
+
 File Reading
+
 Output Formatting
 
 # Things I Learned
